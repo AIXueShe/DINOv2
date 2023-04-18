@@ -1,3 +1,5 @@
+# 直接试玩：https://dinov2.metademolab.com/demos
+
 # DINOv2: Learning Robust Visual Features without Supervision
 
 **[Meta AI Research, FAIR](https://ai.facebook.com/research/)**
